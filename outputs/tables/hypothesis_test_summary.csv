@@ -1,0 +1,6 @@
+Feature,Mean (Positive),Mean (Negative),Mean Difference,t-statistic,p-value,95% CI Lower,95% CI Upper,Reject H0 (α=0.05)
+total_order_value,134.1253,161.9226,-27.7973,-11.4246,0.0,-32.5664,-23.0282,Yes
+freight_value,21.8842,27.406,-5.5218,-21.4518,0.0,-6.0264,-5.0173,Yes
+total_product_weight_g,2259.7351,2986.3078,-726.5727,-13.0516,0.0,-835.6904,-617.455,Yes
+number_of_items,1.1107,1.2945,-0.1839,-26.147,0.0,-0.1976,-0.1701,Yes
+seller_average_review,4.1273,3.9794,0.1479,28.5225,0.0,0.1377,0.1581,Yes
