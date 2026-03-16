@@ -238,7 +238,7 @@ All models use `class_weight='balanced'` to handle the ~78%/22% class imbalance.
 | XGBoost / LightGBM | Potentially better performance |
 | Hyperparameter tuning (Optuna) | Optimise model performance |
 | Temporal train/test split | More realistic production evaluation |
-| Deployment as REST API (FastAPI/Flask) | Real-time scoring |
+| Build a SQL-based CLI | Quick analytics and ad-hoc querying from the terminal |
 | Seller performance dashboard | Business tool for Olist operations team |
 | Review text sentiment analysis | Additional NLP features from review comments |
 
